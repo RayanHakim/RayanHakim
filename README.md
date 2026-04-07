@@ -1,12 +1,9 @@
 # **Halo Everyone! 👋** I'm **Rayan Luqman Hakim**
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Informatics%20Student&fontSize=70&animation=fadeIn&fontAlignY=38" alt="Header" />
-</div>
-
 ### 🎓 About Me
-- 👨‍💻 Final Year **Informatics Engineering** 
+- 👨‍💻 Final Year **Informatics Engineering** at UPN "Veteran" Yogyakarta.
 - 🚀 Passionate about **Modern Web Development** and **Natural Language Processing (NLP)**.
+
 <br/>
 
 ## 🛠️ My Skill Set
@@ -21,17 +18,19 @@
   
   <a href="#"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
   <a href="#"><img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>
+  <a href="#"><img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>
+  <a href="#"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss-icon.svg" alt="Tailwind CSS" height="50" /></a>
   <a href="#"><img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>
   <a href="#"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
 </div>
 
 <br/>
 
-## 📊 My GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RayanHakim&show_icons=true&theme=tokyonight&border_radius=10" alt="Rayan's Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayanHakim&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" height="170" />
-</div>
+## 📊 GitHub Statistics
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RayanHakim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayanHakim&layout=compact&langs_count=8&theme=tokyonight&border_radius=10" />
+</p>
 
 <br/>
 
