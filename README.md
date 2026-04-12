@@ -17,7 +17,7 @@
   
   <br/><br/>
   
-  <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" height="80" style="background-color: white; border-radius: 50%; padding: 5px;" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" height="80" style="background-color: white; border-radius: 10px; padding: 4px;" /></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="80" /></a>
   <a href="#"><img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" height="80" /></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="Laravel" height="80" /></a>
@@ -26,7 +26,7 @@
   
   <br/><br/>
 
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" height="80" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" height="80" /></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="80" /></a>
 </div>
 
