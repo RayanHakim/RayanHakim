@@ -1,11 +1,22 @@
 # **Hello Everyone! 👋** I'm **Rayan Luqman Hakim**
 
 ### 🎓 About Me
-Informatics Engineering graduate specializing in Fullstack Development and Natural Language Processing (NLP),
-with experience in building web and mobile applications. Skilled in developing scalable systems using modern
-frameworks and applying machine learning techniques for data analysis and classification tasks.
+Informatics Engineering graduate specializing in Fullstack Development and Natural Language Processing (NLP), with experience in building web and mobile applications. Skilled in developing scalable systems using modern frameworks and applying machine learning techniques for data analysis and classification tasks.
 
-<br/>
+---
+
+### 📜 Certifications
+
+#### 🌐 Cloud & Artificial Intelligence
+*   **Google AI Essentials Specialization** | Coursera
+*   **Introduction to Cloud Computing** | Digital Talent Scholarship 2025
+*   **Intro to Machine Learning** | Kaggle
+
+#### 🖧 Networking & Infrastructure
+*   **Intermediate Associate Network Administrator** | Digital Talent Academy
+*   **Fundamental of Associate Network Administrator** | Digital Talent Academy
+
+---
 
 ## 🛠️ My Skill Set
 <div align="center">
