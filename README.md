@@ -1,8 +1,9 @@
 # **Hello Everyone! 👋** I'm **Rayan Luqman Hakim**
 
 ### 🎓 About Me
-- 👨‍💻 Final Year **Informatics Engineering** at UPN "Veteran" Yogyakarta.
-- 🚀 Passionate about **Modern Web Development** and **Natural Language Processing (NLP)**.
+Informatics Engineering graduate specializing in Fullstack Development and Natural Language Processing (NLP),
+with experience in building web and mobile applications. Skilled in developing scalable systems using modern
+frameworks and applying machine learning techniques for data analysis and classification tasks.
 
 <br/>
 
