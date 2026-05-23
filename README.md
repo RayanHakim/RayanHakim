@@ -7,14 +7,18 @@ Informatics Engineering graduate specializing in Fullstack Development and Natur
 
 ### 📜 Certifications
 
-#### 🌐 Cloud & Artificial Intelligence
+#### Cloud & Artificial Intelligence
 *   **Google AI Essentials Specialization** | Coursera
 *   **Introduction to Cloud Computing** | Digital Talent Scholarship 2025
 *   **Intro to Machine Learning** | Kaggle
 
-#### 🖧 Networking & Infrastructure
+#### Networking & Infrastructure
 *   **Intermediate Associate Network Administrator** | Digital Talent Academy
 *   **Fundamental of Associate Network Administrator** | Digital Talent Academy
+*   **Intermediate Cybersecurity + AI Essentials**| Digital Talent Academy
+
+#### Software & Web Development
+**Web Development Fundamentals** | IBM
 
 ---
 
