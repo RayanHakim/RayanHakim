@@ -18,8 +18,8 @@ Informatics Engineering graduate specializing in Fullstack Development and Natur
 *   **Intermediate Cybersecurity + AI Essentials**| Digital Talent Academy
 
 #### Software & Web Development
-**Web Development Fundamentals** | IBM
-**Master Class Quality Assurance** | Gameloft
+*  **Web Development Fundamentals** | IBM
+*  **Master Class Quality Assurance** | Gameloft
 
 ---
 
