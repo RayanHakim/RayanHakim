@@ -19,6 +19,7 @@ Informatics Engineering graduate specializing in Fullstack Development and Natur
 
 #### Software & Web Development
 **Web Development Fundamentals** | IBM
+**Master Class Quality Assurance** | Gameloft
 
 ---
 
